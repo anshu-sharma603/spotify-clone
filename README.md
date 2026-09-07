@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone---------
+# 🎵 Spotify Clone-------------
 
 A pixel-perfect clone of Spotify's Web Player built with pure **HTML** and **CSS** — no frameworks, no JavaScript libraries.
 
