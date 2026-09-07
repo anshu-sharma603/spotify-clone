@@ -11,7 +11,7 @@ This project is a front-end replica of the **Spotify Web Player** UI. It faithfu
 
 ---
 
-## ✨ Features--------------
+## ✨ Features----------------
 
 ### 🗂️ Sidebar
 - **Home** and **Search** navigation links
