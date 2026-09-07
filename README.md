@@ -5,7 +5,7 @@ A pixel-perfect clone of Spotify's Web Player built with pure **HTML** and **CSS
 
 ---
 
-## 📌 About the Project---------
+## 📌 About the Project--------
 
 This project is a front-end replica of the **Spotify Web Player** UI. It faithfully recreates Spotify's dark-themed interface including the sidebar, multiple content sections like "Recently Played", "Trending now near you", and "Featured Charts", along with the bottom music player bar — all crafted from scratch using only HTML & CSS.
 
