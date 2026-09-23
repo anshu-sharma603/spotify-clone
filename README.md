@@ -19,6 +19,8 @@ This project is a front-end replica of the **Spotify Web Player** UI. It faithfu
 - **Create your first playlist** prompt card with a *Create playlist* button
 - **Let's find some podcasts to follow** card with a *Browse podcasts* button
 
+- 
+
 ### 🏠 Main Content
 - **Recently Played** — Displays recently accessed playlists (e.g., Top 50 Global)
 - **Trending now near you** — A responsive grid of trending songs including:
